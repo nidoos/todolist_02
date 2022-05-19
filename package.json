@@ -1,0 +1,19 @@
+{
+  "name": "todolist02",
+  "version": "1.0.0",
+  "description": "todolist",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nidoos",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.3.3",
+    "pug": "^3.0.2"
+  }
+}
